@@ -1,4 +1,5 @@
 # bookreview
+#### the application code is in the bookreview branch
 ### FUNCTIONALITY
 - A user friendly and responsive web application that is suitable for all screen-size devices.
 - Users can Sign Up, Sign In and Log Out
