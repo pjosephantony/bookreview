@@ -1,5 +1,5 @@
 # bookreview
-###FUNCTIONALITY
+### FUNCTIONALITY
 - A user friendly and responsive web application that is suitable for all screen-size devices.
 - Users can Sign Up, Sign In and Log Out
 - Authenticate user by checking to see if a user’s credentials match the credential in the database
@@ -8,7 +8,7 @@
 - Authenticated user can create a post about a book with details like title, image URL, author, genre, book review and price.
 - Authenticated and authorized user can also edit and delete book post.
 - Authenticated user can add comments to a book review. He can also edit and delete a comment if he is authorized.
-###TECHNOLOGY
+### TECHNOLOGY
 - RESTful web application
 - Achieved responsive design using Bootstrap and CSS3
 - Used HTML5 for document structure
